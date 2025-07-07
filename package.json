@@ -1,0 +1,28 @@
+{
+  "name": "arafat",
+  "version": "1.0.0",
+  "description": "Arafat Hossain's interactive terminal CV",
+  "main": "cli.js",
+  "type": "module",
+  "bin": {
+    "arafat": "cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.12"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "terminal",
+    "developer"
+  ],
+  "author": "Arafat Hossain",
+  "license": "MIT"
+}
