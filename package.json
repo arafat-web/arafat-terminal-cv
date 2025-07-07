@@ -1,11 +1,11 @@
 {
   "name": "arafatdev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Arafat Hossain's interactive terminal CV",
   "main": "cli.js",
   "type": "module",
   "bin": {
-    "arafat": "cli.js"
+    "arafatdev": "cli.js"
   },
   "scripts": {
     "start": "node cli.js"
