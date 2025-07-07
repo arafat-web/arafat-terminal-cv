@@ -1,6 +1,6 @@
 {
   "name": "arafatdev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Arafat Hossain's interactive terminal CV",
   "main": "cli.js",
   "type": "module",
